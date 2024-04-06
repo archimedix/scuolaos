@@ -1,6 +1,0 @@
-baseURL = "http://scuolaos.digital/"
-languageCode = "it-IT"
-title = "Scuola OS"
-author = "archimedix.net"
-description = "Protocollo scuola:// il sistema operativo della scuola"
-theme = "m10c"
